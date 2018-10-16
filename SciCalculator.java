@@ -1,4 +1,4 @@
-import java.util.Scanner;
+import java.util.Scanner; //Git test comment, October 16, 2018 Kyle Fohrman
 
 public class SciCalculator
 {
