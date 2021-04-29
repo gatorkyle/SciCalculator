@@ -7,7 +7,7 @@ To access the previously calculated result, input "RESULT" as an argument on the
 
 The program also stores a running average of every result calculated thus far, which can be called as menu item 7.
 
-*** Code Example ***
+***Code Example***
 ```
 Current Result: 0.0
 
