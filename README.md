@@ -1,5 +1,5 @@
 # SciCalculator
-Scientific Calculator- COP3502 project
+Scientific Calculator- COP3502 project completed in fall of 2018
 
 Runs mathematic operations according to a recurring menu listing. Stores the result for future usage.
 
